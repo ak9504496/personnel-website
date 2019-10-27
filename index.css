@@ -1,6 +1,11 @@
 body {
-  background-color: powderblue;
+  background-color: #3c9d9b;
 }
 img{
   border-radius: 50%;
+}
+hr{
+  background-color: white;
+  border-style: none;
+  height: 2px;
 }
